@@ -1,1 +1,1 @@
-# Mugspoon
+# Titanic analysis from Kaggle dataset
